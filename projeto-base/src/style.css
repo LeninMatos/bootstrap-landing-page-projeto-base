@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); 
+
 .imagen-carrossel-um {
     object-fit: cover;
     object-position: 0 90%;
-    height:  35rem;
+    height:  400px;
 }
 
 .imagen-carrossel-dois {
     object-fit: cover;
-    height:  35rem;
+    height:  400px;
+}
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
 }
