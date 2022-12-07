@@ -1,0 +1,10 @@
+.imagen-carrossel-um {
+    object-fit: cover;
+    object-position: 0 90%;
+    height:  35rem;
+}
+
+.imagen-carrossel-dois {
+    object-fit: cover;
+    height:  35rem;
+}
