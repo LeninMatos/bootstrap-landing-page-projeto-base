@@ -35,3 +35,9 @@
     object-fit: cover;
     height: 200px;
 }
+
+.row {
+    justify-content: center;
+    gap: 5rem;
+}
+
